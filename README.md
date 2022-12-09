@@ -11,6 +11,7 @@ This project consisted in using Git and GitHub with a simulated workflow to refa
 The Project Submission consisted of the filling of a template with all the Git commands used to perform the requested tasks.
 
 ### Files used
+the dataset I user is: 
 chicago.csv 
 
 new_york_city.csv
